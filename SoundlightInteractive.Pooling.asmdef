@@ -1,0 +1,18 @@
+{
+    "name": "SoundlightInteractive.Pooling",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c685a721ff39f7a4b908eb543f1286b3",
+        "GUID:04ccc58e900612f4ba01717a2516cc50",
+        "GUID:9cc90048afd1bed4db03b68f4ebe5e2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

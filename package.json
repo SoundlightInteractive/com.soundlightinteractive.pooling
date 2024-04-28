@@ -1,0 +1,13 @@
+{
+  "name": "com.soundlightinteractive.pooling",
+  "displayName": "Soundlight Interactive Pooling Package",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "author": "Soundlight Interactive",
+  "description": "This is an pooling system to make easy object pooling!",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SoundlightInteractive/com.soundlightinteractive.pooling.git"
+  }
+}
